@@ -166,6 +166,6 @@ affichées.
 >>Combien d'animaux de la liste ont 3 voyelles successives dans leur nom?<<
 === 18
 
-*Indication:* utilisez ``grep``, ``uniq`` et ``sort``, ainsi que la
-commande ``wc -l`` qui compte le nombre de lignes de son entrée
-standard.
+*Indication:* Comme on aime les tubes, on partira du fichier ``animaux`` et 
+on utilisera ``grep``, ``uniq`` et ``sort``, ainsi que la commande ``wc -l``
+qui compte le nombre de lignes de son entrée standard. 
